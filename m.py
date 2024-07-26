@@ -17,13 +17,13 @@ keep_alive()
 
 # insert your Telegram bot token here
 
-bot = telebot.TeleBot('7464941936:AAEPjKTSCDv8_CD0_AvVBals7zFW9ud5bGI')
+bot = telebot.TeleBot('7355244469:AAGTeTvl6sqnmbQqKG__dyBlU5LC7r1Qzvw')
 
 
 
 # Admin user IDs
 
-admin_id = ["7451785687"]
+admin_id = ["1354861792"]
 
 
 
