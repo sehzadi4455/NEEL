@@ -17,13 +17,13 @@ keep_alive()
 
 # insert your Telegram bot token here
 
-bot = telebot.TeleBot('7464941936:AAEPjKTSCDv8_CD0_AvVBals7zFW9ud5bGI')
+bot = telebot.TeleBot('7115090335:AAHMT6E-n6sEkmsg_yBjmv9j2v8TpKXthFo')
 
 
 
 # Admin user IDs
 
-admin_id = ["7451785687"]
+admin_id = ["1354861792"]
 
 
 
@@ -97,7 +97,7 @@ allowed_user_ids = read_users()
 
 def log_command(user_id, target, port, time):
 
-    admin_id = ["5588464519"]
+    admin_id = ["1354861792"]
 
     user_info = bot.get_chat(user_id)
 
